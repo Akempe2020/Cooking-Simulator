@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "how-to-cook-egg-noodles.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "how-to-cook-egg-noodles@2x.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "how-to-cook-egg-noodles@3x.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "16311-simple-beef-stroganoff-DDMFS-4x3-1e966286eef54c0f96c882e569926eb3.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "16311-simple-beef-stroganoff-DDMFS-4x3-1e966286eef54c0f96c882e569926eb3@2x.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "16311-simple-beef-stroganoff-DDMFS-4x3-1e966286eef54c0f96c882e569926eb3@3x.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

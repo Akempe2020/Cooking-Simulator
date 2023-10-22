@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "16311-simple-beef-stroganoff-step-2-17894-accb6ee5e4f44855a4b0bf7874e16553.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "16311-simple-beef-stroganoff-step-2-17894-accb6ee5e4f44855a4b0bf7874e16553@2x.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "16311-simple-beef-stroganoff-step-2-17894-accb6ee5e4f44855a4b0bf7874e16553@3x.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
